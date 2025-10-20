@@ -1,0 +1,3 @@
+{"ts": "2025-10-17T13:40:09.077350+00:00", "question": "What are your opening time?", "answer": "We’re open Monday to Saturday, 10:00–18:00.", "source": "internal_faq_v1", "confidence": 0.8275, "helpful": true}
+{"ts": "2025-10-17T13:48:51.021527+00:00", "question": "delivery", "answer": "Yes, contact support at least 48 hours before your delivery.", "source": "delivery_tos.md", "confidence": 0.7916, "helpful": true}
+{"ts": "2025-10-17T14:44:21.956880+00:00", "question": "return", "answer": "Email support with your order number; we’ll send you a return label.", "source": "return_policy.md", "confidence": 0.58, "helpful": true}
